@@ -113,9 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hokyeong Park"
+  name             : "Hugo Park (in Korean, Hokyeong Park)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "KR"
+  nation           : "KR"
+  bio              : " Korea Univ. (2016.3 ~ 2024.2) / ROK AirForce (2017.1 ~ 2018.12) / SK Shieldus (2024.9 ~ 2026.1)
   location         : "Seongnam, Gyeonggi-do"
   email            : "onlyhany1@korea.ac.kr"
   links:
