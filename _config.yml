@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "@aussiemaybe X Infosec"
+title                    : "@Hugo Park X Infosec"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "aussiemaybe"
-description              : "aussiemaybe's Website."
+name                     : "Hugo Park"
+description              : "Hugo's Website."
 url                      : "https://aussiemaybe.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
